@@ -1,0 +1,7 @@
+Steps to participate in kaggle competitions:
+
+1. Set up kaggle CLI
+
+Installation (from terminal) :
+
+pip install kaggle-cli
